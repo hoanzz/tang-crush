@@ -2,7 +2,6 @@ const CONFIG = {
     introTitle: 'em ơi!',
     introDesc: `Thu đương tới,
     Hè đương qua,
-    
     Em xinh quá.
     Làm quen nha ^^`,
     btnIntro: 'oke luôn anh Hoan',
